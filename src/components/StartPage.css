@@ -1,0 +1,12 @@
+.start-page{
+    width: 100%;
+}
+.start-page span {
+    width: 30%;
+    display: block;
+    text-align: center;
+    margin: 3em auto;
+    font-family: monospace;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px 5px;
+}

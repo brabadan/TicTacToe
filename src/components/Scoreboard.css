@@ -1,0 +1,20 @@
+.scoreboard {
+    display: inline-block;
+}
+
+.scoreboard h4 {
+    margin: 10px auto;
+    color: blue;
+    font-size: x-large;
+}
+
+.scoreboard-table {
+    background-color: aqua;
+    border-radius: 10px;
+    border: aqua 10px solid;
+}
+
+.scoreboard tbody, thead {
+    color: lightgreen;
+    background-color: darkslategray;
+}

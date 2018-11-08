@@ -1,0 +1,27 @@
+
+.cell-empty {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.cell-busy {
+    background-color: grey;
+    font-size: xx-large;
+}
+
+.deck {
+    position: relative;
+    margin: 2px auto;
+    border: 1px solid white;
+    overflow: hidden;
+}
+
+.deck-cell {
+    display: inline-block;
+    border: 1px solid black;
+    position: absolute;
+}
+
+span {
+    font-size: xx-large;
+}
